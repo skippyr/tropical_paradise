@@ -12,6 +12,15 @@ In the image:
 
 ## Installation
 
+### CSS/SCSS
+
+  + Copy the desired stylesheets file, `stylesheets/tropical_paradise.css` or
+    `stylesheets/tropical_paradise.scss` to your project's repository directory.
+
+  + Include the file in your HTML by using the `link` tag or include it in your
+    CSS/SCSS file by using the `@import` rule.
+
+
 ### Kitty
 
   + Copy the file `kitty/tropical_paradise.conf` to your Kitty configuration
@@ -22,6 +31,7 @@ In the image:
     ```bash
     include tropical_paradise.conf
     ```
+
 
 ### St
 
@@ -41,15 +51,18 @@ In the image:
   
   To be easier to mantain this theme, I prefer not to include a diff file.
 
+
 ### Wallpapers
 
 I have separated some free wallpapers that goes well with this color scheme at
 `wallpapers/wallpapers.md`. You can download them from their source and help
 their authors.
 
+
 ## Troubleshooting
 
 This section will talk about common issues I have found when trying to apply Tropical Paradise and how to solve them.
+
 
 ### Bright Bold In St
 
