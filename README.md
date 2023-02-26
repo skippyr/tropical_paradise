@@ -47,6 +47,19 @@ I have separated some free wallpapers that goes well with this color scheme at
 `wallpapers/wallpapers.md`. You can download them from their source and help
 their authors.
 
+## Troubleshooting
+
+This section will talk about common issues I have found when trying to apply Tropical Paradise and how to solve them.
+
+### Bright Bold In St
+
+![](images/troubleshooting/bright_bold_0.png)
+
+This issue happens because `st`, by default, uses bright colors when rendering
+bold text.
+
+The solution for this issue is to use the patch [`bold is not bright`](https://st.suckless.org/patches/bold-is-not-bright).
+
 
 ## License
 
