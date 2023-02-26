@@ -52,6 +52,27 @@ In the image:
   To be easier to mantain this theme, I prefer not to include a diff file.
 
 
+### Vim/Neovim (under development)
+  + if you are using a plugin manager, simply point to this repository. For
+    example, if you are using `Packer`, you can use this line:
+
+    ```vim
+    use 'skippyr/tropical_paradise'
+    ```
+  
+  + if you want to manually install this color scheme:
+    + if you are using Vim, create the directory `~/.vim/colors`.
+    + if you are using Neovim, create the directory `~/.config/nvim/colors`.
+    
+    Then, copy the file `vim/tropical_paradise.vim` to the directory created.
+  
+  + apply the color scheme by using the `colorscheme` keyword.
+
+    ```vim
+    colorscheme tropical_paradise
+    ```
+
+
 ### Wallpapers
 
 I have separated some free wallpapers that goes well with this color scheme at
