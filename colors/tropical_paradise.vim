@@ -11,14 +11,16 @@ highlight Normal guibg='#190000' guifg='#fcd276'
 highlight ColorColumn guibg='#e3cb98'
 highlight Comment guifg='#e3cb98'
 highlight LineNr guifg='#ff0d00'
+highlight NonText guifg='#636363'
+highlight Visual guifg='#000000' guibg='#ffae00'
+highlight SignColumn guibg=NONE
 
-highlight Constant guifg='#639c00'
-highlight! link Statement Constant
+highlight Function guifg='#639c00'
 highlight Type guifg='#ffae00'
-highlight String guifg='#ff0d00'
-highlight! link Include String
-highlight! link Title String
-highlight Function guifg='#ff0d00'
+highlight Title guifg='#ff0d00'
+highlight Statement guifg='#ff0d00'
+highlight Constant guifg='#fcd276'
+highlight! link PreProc Statement
 
 highlight Pmenu guibg='#000000'
 highlight PmenuSel guibg='#ff0d00' guifg='#000000'

@@ -1,6 +1,6 @@
 static const char *colorname[] = {
 	// Dark colors
-	[0] = "#000000", // black
+	[0] = "#190000", // background
 	[1] = "#ff0d00", // red
 	[2] = "#639c00", // green
 	[3] = "#ffae00", // yellow
@@ -10,7 +10,7 @@ static const char *colorname[] = {
 	[7] = "#e3cb98", // white
 	
 	// Light colors
-	[8]  = "#190000", // background
+	[8]  = "#636363", // black
 	[9]  = "#f57f79", // red
 	[10] = "#d4f0a5", // green
 	[11] = "#f5cf7e", // yellow
@@ -20,6 +20,6 @@ static const char *colorname[] = {
 	[15] = "#fcd276", // foreground
 };
 
-unsigned int defaultfg = 15;
-unsigned int defaultbg = 8;
-
+unsigned int defaultfg = 15; // foreground
+unsigned int defaultbg = 0; // background
+unsigned int defaultcs = 1; // cursor background
