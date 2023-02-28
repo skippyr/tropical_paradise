@@ -22,10 +22,10 @@ highlight Statement guifg='#ff0d00'
 highlight Constant guifg='#fcd276'
 highlight! link PreProc Statement
 
-highlight Pmenu guibg='#000000'
-highlight PmenuSel guibg='#ff0d00' guifg='#000000'
-highlight PmenuSbar guibg='#000000'
-highlight PmenuThumb guibg='#ff0d00'
+highlight Pmenu guibg='#3a3525'
+highlight PmenuSel guibg='#ff0d00' guifg='#3a3525'
+highlight PmenuSbar guibg='#3a3525'
+highlight PmenuThumb guibg='#3a3525'
 
 highlight DiffAdd guibg=NONE
 highlight! link DiffChange DiffAdd
