@@ -5,10 +5,16 @@ A color scheme with red appeal and vibrant colors. It echos power and joy.
 
 ## Preview
 
-![](preview/preview_0.png)
+### Kitty
 
+![](images/preview/kitty.png)
 In the image:
   + the theme for ZSH is [`River Dreams`](https://github.com/skippyr/river_dreams).
+
+### Vim/Neovim
+
+![](images/preview/vim.png)
+
 
 ## Installation
 
