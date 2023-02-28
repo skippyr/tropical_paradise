@@ -80,6 +80,15 @@ In the image:
     sudo make clean install
     ```
 
+## bspwm
+
+  + copy the file `bspwm/tropical_paradise.sh` to `~/.config/bspwm`.
+  + source the script in your `~/.config/bspwm/bspwmrc`.
+
+    ```bash
+    source ~/.config/bspwm/bspwmrc/tropical_paradise.sh
+    ```
+
 ### Vim/Neovim
   + if you are using a plugin manager, simply point to this repository. For
     example, if you are using `Packer`, you can use this line:
