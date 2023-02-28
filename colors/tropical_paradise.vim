@@ -12,7 +12,7 @@ highlight ColorColumn guibg='#978f63'
 highlight Comment guifg='#e3cb98'
 highlight LineNr guifg='#ff0d00'
 highlight NonText guifg='#978f63'
-highlight Visual guifg='#000000' guibg='#ffae00'
+highlight Visual guifg='#190000' guibg='#fcd276'
 highlight SignColumn guibg=NONE
 
 highlight Function guifg='#639c00'
