@@ -1,7 +1,7 @@
 # Tropical Paradise
 
-A colorscheme with a warm palette and light colors. It echos
-mystery and rage meanwhile being fun to play with.
+A colorscheme with a red appeal and vibrant colors with good contrast. It echos
+power and joy.
 
 
 ## Preview
