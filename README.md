@@ -74,7 +74,7 @@ In the image:
     sudo make clean install
     ```
 
-### Vim/Neovim (under development)
+### Vim/Neovim
   + if you are using a plugin manager, simply point to this repository. For
     example, if you are using `Packer`, you can use this line:
 
