@@ -8,10 +8,10 @@
 set termguicolors
 
 highlight Normal guibg='#190000' guifg='#fcd276'
-highlight ColorColumn guibg='#e3cb98'
+highlight ColorColumn guibg='#978f63'
 highlight Comment guifg='#e3cb98'
 highlight LineNr guifg='#ff0d00'
-highlight NonText guifg='#636363'
+highlight NonText guifg='#978f63'
 highlight Visual guifg='#000000' guibg='#ffae00'
 highlight SignColumn guibg=NONE
 

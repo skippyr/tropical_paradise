@@ -33,6 +33,12 @@ In the image:
     ```
 
 
+### Konsole
+  
+  + Copy the file `konsole/tropical_paradise.colorscheme` to
+    `~/.local/share/konsole`.
+  + Select the color scheme in Konsole's configurations.
+
 ### St
 
   + access the file `config.def.h` in the st's repository directory and
