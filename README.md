@@ -1,10 +1,10 @@
 # Tropical Paradise
 
-A colorscheme with a red appeal and vibrant colors with good contrast. It echos
-power and joy.
+A color scheme with red appeal and vibrant colors. It echos power and joy.
 
 
 ## Preview
+
 ![](preview/preview_0.png)
 
 In the image:
@@ -41,22 +41,38 @@ In the image:
 
 ### St
 
-  + access the file `config.def.h` in the st's repository directory and
-    replace the array `colorname` and variables `defaultfg` and `defaultbg`
-    with the ones that are in the file `st/tropical_paradise.c`.
-  + remove the file `config.h`.
+  + Access the file `config.def.h` in the st's repository directory and
+    Replace the array `colorname` and variables `defaultfg` and `defaultbg`
+    by the ones that are in the file `st/tropical_paradise.c`.
+  + Remove the file `config.h`.
     
     ```bash
     rm -rf config.h
     ```
-  + compile and install `st`.
+
+  + Compile and install `st`.
 
     ```bash
     sudo make clean install
     ```
-  
-  To be easier to mantain this theme, I prefer not to include a diff file.
 
+
+## Dwm
+
+  + Access the file `config.def.h` in the dwm's repository directory and
+    replace the variables `col_gray1`, `col_gray2`, `col_gray3`, `col_gray4`
+    and `col_cyan` by the ones that are in the file `dwm/tropical_paradise.c`.
+  + Remove the file `config.h`.
+    
+    ```bash
+    rm -rf config.h
+    ```
+    
+  + Compile and install `st`.
+
+    ```bash
+    sudo make clean install
+    ```
 
 ### Vim/Neovim (under development)
   + if you are using a plugin manager, simply point to this repository. For
