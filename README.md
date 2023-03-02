@@ -4,7 +4,7 @@ A color scheme with red appeal and vibrant colors. It was designed to not
 hurt your eyes at night and keep the colors pretty easy to differentiate in
 the terminal.
 
-It is available in the applications and languages I use most.
+It is available for the applications and languages I use most.
 
 
 ## Preview
@@ -63,7 +63,7 @@ It is available in the applications and languages I use most.
   + Compile and install `st`.
 
 
-## dwm
+### dwm
 
   + Access the file `config.def.h` in the dwm's repository directory and
     replace the variables `col_gray1`, `col_gray2`, `col_gray3`, `col_gray4`
@@ -72,7 +72,7 @@ It is available in the applications and languages I use most.
   + Compile and install `st`.
 
 
-## bspwm
+### bspwm
 
   + copy the file `bspwm/tropical_paradise.sh` to `~/.config/bspwm`.
   + source the script in your `~/.config/bspwm/bspwmrc`.
