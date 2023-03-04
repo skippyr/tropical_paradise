@@ -1,14 +1,19 @@
 # Tropical Paradise
 
-A lovely colorscheme made for terminals that is fun to play with. It has
-versions for day and night that only inverts the background and foreground,
-keeping the same palette.
+A colorscheme made for terminals that is fun to play with. It has
+light and dark versions for those who love lightness and darkness.
 
 It is available for the applications and style languages I use most.
 
 ## Preview
 
-![](images/preview/preview_0.png)
+### Dark Palette
+
+![](images/preview/dark_palette.png)
+
+### Light Palette
+
+![](images/preview/light_palette.png)
 
 ## See Also
   + [`becho`](https://github.com/skippyr/becho) - A terminal utility designed
