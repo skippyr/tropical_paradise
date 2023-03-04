@@ -1,6 +1,6 @@
 # Tropical Paradise
 
-A colorscheme made for terminals that is fun to play with. It has
+A color scheme made for terminals that is fun to play with. It has
 light and dark versions for those who love lightness and darkness.
 
 It is available for the applications and style languages I use most.
@@ -14,6 +14,23 @@ It is available for the applications and style languages I use most.
 ### Light Palette
 
 ![](images/preview/light_palette.png)
+
+## Installation
+
+### Kitty
+  + copy the color scheme files from `kitty` to `~/.config/kitty/themes`.
+  + include the desired color scheme in `~/.config/kitty/kitty.conf`:
+
+    For dark palette:
+    ```
+    include themes/tropical_paradise_dark.conf
+    ```
+
+    For light palette:
+    ```
+    include themes/tropical_paradise_light.conf
+    ```
+  + refresh your Kitty session.
 
 ## See Also
   + [`becho`](https://github.com/skippyr/becho) - A terminal utility designed
