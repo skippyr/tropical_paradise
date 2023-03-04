@@ -11,10 +11,12 @@ It is available for the applications and style languages I use most.
 ![](images/preview/preview_0.png)
 
 ## See Also
-  + `becho` - A terminal utility designed to help you treat, style and print
-    text to the standard output.
-  + `river_dreams` - The ZSH theme that you have been dreaming for a long time.
+  + [`becho`](https://github.com/skippyr/becho) - A terminal utility designed
+    to help you treat, style and print text to the standard output.
+  + [`river_dreams`](https://github.com/skippyr/river_dreams) - The ZSH theme
+    that you have been dreaming for a long time.
 
 ## Copyright
 
 Copyright (c) 2023, Sherman Rofeman. MIT License.
+
