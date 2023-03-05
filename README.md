@@ -1,7 +1,9 @@
 # Tropical Paradise
 
-A color scheme made for terminals that is fun to play with. It has
-light and dark versions for those who love lightness and darkness.
+A beautiful and useful color scheme made for terminal wizards. It makes all the
+colors and its variants distinguishable with the HUE it is supposed to be,
+without changes that can confuses you like many other color schemes do for the
+sake of styling.
 
 It is available for the applications and style languages I use most.
 
