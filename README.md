@@ -7,19 +7,25 @@ sake of styling.
 
 It is available for the applications and style languages I use most.
 
+
 ## Preview
+
 
 ### Dark Palette
 
 ![](images/preview/dark_palette.png)
 
+
 ### Light Palette
 
 ![](images/preview/light_palette.png)
 
+
 ## Installation
 
+
 ### Kitty
+
   + copy the color scheme files from `kitty` to `~/.config/kitty/themes`.
   + include the desired color scheme in `~/.config/kitty/kitty.conf`:
 
@@ -34,11 +40,21 @@ It is available for the applications and style languages I use most.
     ```
   + refresh your Kitty session.
 
+
 ## See Also
+
   + [`becho`](https://github.com/skippyr/becho) - A terminal utility designed
     to help you treat, style and print text to the standard output.
   + [`river_dreams`](https://github.com/skippyr/river_dreams) - The ZSH theme
     that you have been dreaming for a long time.
+
+
+## Issues And Enhancements
+
+If you have found an issue while using this software, you can report it in
+the issues tab of its page on GitHub. Enhacements can also be asked in the
+same way.
+
 
 ## Copyright
 
