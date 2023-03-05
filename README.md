@@ -20,6 +20,9 @@ It is available for the applications and style languages I use most.
 
 ![](images/preview/light_palette.png)
 
+There is the script `scripts/colors.sh` that you can use to review the
+palette of the themes.
+
 
 ## Installation
 
@@ -46,9 +49,9 @@ It is available for the applications and style languages I use most.
   + [`Becho`](https://github.com/skippyr/becho) - A terminal utility designed
     to help you treat, style and print text to the standard output.
   + [`River Dreams`](https://github.com/skippyr/river_dreams) - The ZSH theme
-    that you have been dreaming for a long time.
-  + [`Recursive`](https://github.com/arrowtype/recursive) - a font that looks
-    perfect.
+    that developers have been dreaming for a long time.
+  + [`Recursive`](https://github.com/arrowtype/recursive) - a perfect coding
+    font.
 
 
 ## Issues And Enhancements
