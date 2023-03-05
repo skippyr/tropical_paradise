@@ -43,10 +43,12 @@ It is available for the applications and style languages I use most.
 
 ## See Also
 
-  + [`becho`](https://github.com/skippyr/becho) - A terminal utility designed
+  + [`Becho`](https://github.com/skippyr/becho) - A terminal utility designed
     to help you treat, style and print text to the standard output.
-  + [`river_dreams`](https://github.com/skippyr/river_dreams) - The ZSH theme
+  + [`River Dreams`](https://github.com/skippyr/river_dreams) - The ZSH theme
     that you have been dreaming for a long time.
+  + [`Recursive`](https://github.com/arrowtype/recursive) - a font that looks
+    perfect.
 
 
 ## Issues And Enhancements
