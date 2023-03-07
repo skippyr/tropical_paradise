@@ -50,8 +50,8 @@ palette of the themes.
     to help you treat, style and print text to the standard output.
   + [`River Dreams`](https://github.com/skippyr/river_dreams) - The ZSH theme
     that developers have been dreaming for a long time.
-  + [`Recursive`](https://github.com/arrowtype/recursive) - a perfect coding
-    font.
+  + [`Iosevka`](https://github.com/be5invis/Iosevka) - a versatile coding
+    font that can imitate other popular fonts by using stylistic sets.
 
 
 ## Issues And Enhancements
