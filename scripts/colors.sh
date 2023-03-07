@@ -1,10 +1,13 @@
 #!/usr/bin/env bash
 
 main() {
-  local -r text="Here are dragons!"
+  local -r text="gYw"
 
-  for color in $(seq 0 15); do
-    becho "(${color}) $(becho -f ${color} ${text})   $(becho -g ${color} ${text})"
+  for foreground_color in $(seq 0 15); do
+    for background_color in $(seq 0 15); do
+      becho -nf ${foreground_color} -g ${background_color} " ${text} "
+    done
+    becho " "
   done
 }
 
