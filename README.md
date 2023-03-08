@@ -55,17 +55,7 @@ palette of the themes.
 
 ### Xresources
 
-  + create a symbolic link between one of the color schemes that in `xresources`
-    to `~/.Xresources`:
-
-    ```bash
-    ln -sf $(pwd)/st/tropical_paradise_dark ~/.Xresources
-    ```
-
-    Remember to check the first path given as argument as it must be complete
-    and not relative. If you use a wrong path, you can delete the symbolic
-    link created by using `rm`.
-
+  + copy one of the color schemes that are in `xresources` to `~/.Xresources`:
   + use `xrdb` to reload the file you linked:
 
     ```bash
@@ -74,6 +64,13 @@ palette of the themes.
 
     If you use `~/.xinitrc`, you can add the line above in it for it to be
     executed every time you enter an X11 session.
+
+
+### Konsole
+
+  + copy the color scheme files from `konsole` to `~/.local/share/konsole`.
+  + change the color scheme in Konsole's settings.
+
 
 ## See Also
 
