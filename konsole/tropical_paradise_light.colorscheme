@@ -1,11 +1,11 @@
 [Background]
-Color=20,0,0
+Color=253,235,171
 
 [BackgroundFaint]
 Color=49,54,59
 
 [BackgroundIntense]
-Color=20,0,0
+Color=253,235,171
 
 [Color0]
 Color=20,0,0
@@ -17,58 +17,58 @@ Color=49,54,59
 Color=151,143,99
 
 [Color1]
-Color=255,13,0
+Color=198,43,0
 
 [Color1Faint]
 Color=120,50,40
 
 [Color1Intense]
-Color=245,127,121
+Color=255,13,0
 
 [Color2]
-Color=119,188,0
+Color=74,117,0
 
 [Color2Faint]
 Color=23,162,98
 
 [Color2Intense]
-Color=212,240,165
+Color=119,188,0
 
 [Color3]
-Color=255,174,0
+Color=199,116,0
 
 [Color3Faint]
 Color=182,86,25
 
 [Color3Intense]
-Color=252,210,118
+Color=255,174,0
 
 [Color4]
-Color=78,183,204
+Color=0,112,137
 
 [Color4Faint]
 Color=27,102,143
 
 [Color4Intense]
-Color=147,204,217
+Color=78,183,204
 
 [Color5]
-Color=255,91,219
+Color=187,67,161
 
 [Color5Faint]
 Color=97,74,115
 
 [Color5Intense]
-Color=255,213,246
+Color=255,91,219
 
 [Color6]
-Color=2,213,181
+Color=0,145,99
 
 [Color6Faint]
 Color=24,108,96
 
 [Color6Intense]
-Color=135,226,197
+Color=2,213,181
 
 [Color7]
 Color=190,183,156
@@ -80,17 +80,17 @@ Color=99,104,109
 Color=253,235,171
 
 [Foreground]
-Color=253,235,171
+Color=20,0,0
 
 [ForegroundFaint]
 Color=239,240,241
 
 [ForegroundIntense]
-Color=253,235,171
+Color=20,0,0
 
 [General]
 Blur=false
 ColorRandomization=false
-Description=Tropical Paradise Dark
+Description=Tropical Paradise Light
 Opacity=1
 Wallpaper=
