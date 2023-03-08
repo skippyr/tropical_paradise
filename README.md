@@ -74,7 +74,7 @@ palette of the themes.
 
 ### Wezterm
 
-  + copy the files from `wezterm` to one of this directories:
+  + copy the color scheme files from `wezterm` to one of this directories:
     + if you are using `Linux` or `MacOS`: `~/.config/wezterm/colors`.
     + if you are using `Windows`: in a directory called `colors` in the
       same directory `wezterm.exe` is.
