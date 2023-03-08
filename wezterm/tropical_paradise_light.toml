@@ -1,0 +1,41 @@
+[metadata]
+name = "Tropical Paradise Light"
+author = "Sherman Rofeman (https://github.com/skippyr)"
+license = "MIT"
+origin_url = "https://github.com/skippyr/tropical_paradise"
+
+[colors]
+
+# Basic Colors
+background = "#fdebab" # Dark Black
+foreground = "#140000" # Light White
+cursor_bg = "#c62b00" # Dark Red
+cursor_border = "#c62b00" # Dark Red
+cursor_fg = "#140000" # Dark Black
+selection_bg = "#140000" # Light White
+selection_fg = "#fdebab" # Dark Black
+
+
+# Dark Colors
+ansi = [
+    "#140000", # Dark Black
+    "#c62b00", # Dark Red
+    "#4a7500", # Dark Green
+    "#c77400", # Dark Yellow
+    "#007089", # Dark Blue
+    "#bb43a1", # Dark Magenta
+    "#009163", # Dark Cyan
+    "#beb79c", # Dark White
+]
+
+# Bright Colors
+brights = [
+    "#978f63", # Light Black
+    "#ff0d00", # Light Red
+    "#77bc00", # Light Green
+    "#ffae00", # Light Yellow
+    "#4eb7cc", # Light Blue
+    "#ff5bdb", # Light Magenta
+    "#02d5b5", # Light Cyan
+    "#fdebab", # Light White
+]

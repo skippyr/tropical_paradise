@@ -78,13 +78,13 @@ palette of the themes.
     + if you are using `Linux` or `MacOS`: `~/.config/wezterm/colors`.
     + if you are using `Windows`: in a directory called `colors` in the
       same directory `wezterm.exe` is.
-  + write the `color_scheme` property in your `~/.wezterm.lua`:
+  + write the `color_scheme` property in your `wezterm.lua`:
 
     For light color scheme:
 
     ```lua
     return {
-      color_scheme: 'Tropical Paradise Light'
+      color_scheme: 'Tropical Paradise Light',
     }
     ```
 
@@ -92,9 +92,15 @@ palette of the themes.
 
     ```lua
     return {
-      color_scheme: 'Tropical Paradise Dark'
+      color_scheme: 'Tropical Paradise Dark',
     }
     ```
+
+    That file must be located at:
+    + if you are using `Linux` or `MacOS`: `~/.wezterm.lua` or
+      `~/.config/wezterm/wezterm.lua`.
+    + if you are using `Windows`: in the same directory as `wezterm.exe` with
+      name `wezterm.lua`.
   + refresh your `wezterm` session.
 
 
