@@ -42,6 +42,7 @@ palette of the themes.
     ```
   + refresh your Kitty session.
 
+
 ### St
 
   + replace the theme definitions that are in your `config.def.h` by one of
@@ -50,6 +51,29 @@ palette of the themes.
   + recompile the software using `sudo make clean install`.
 
   Also, consider to apply the patch [`bold is not bright`](https://st.suckless.org/patches/bold-is-not-bright).
+
+
+### Xresources
+
+  + create a symbolic link between one of the color schemes that in `xresources`
+    to `~/.Xresources`:
+
+    ```bash
+    ln -sf $(pwd)/st/tropical_paradise_dark ~/.Xresources
+    ```
+
+    Remember to check the first path given as argument as it must be complete
+    and not relative. If you use a wrong path, you can delete the symbolic
+    link created by using `rm`.
+
+  + use `xrdb` to reload the file you linked:
+
+    ```bash
+    xrdb ~/.Xresources
+    ```
+
+    If you use `~/.xinitrc`, you can add the line above in it for it to be
+    executed every time you enter an X11 session.
 
 ## See Also
 
@@ -71,4 +95,3 @@ same way.
 ## Copyright
 
 Copyright (c) 2023, Sherman Rofeman. MIT License.
-
