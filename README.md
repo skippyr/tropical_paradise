@@ -1,9 +1,8 @@
 # Tropical Paradise
 
-A beautiful and useful color scheme made for terminal wizards. It makes all the
-colors and its variants distinguishable with the HUE it is supposed to be,
-without changes that can confuses you like many other color schemes do for the
-sake of styling.
+A useful color scheme with vibrant colors made for the __angels__ of the
+_light_ and the __demons__ of the _night_ that are in the search of
+their _Tropical Paradise_.
 
 It is available for the applications and style languages I use most.
 
@@ -43,15 +42,6 @@ palette of the themes.
     ```
   + refresh your Kitty session.
 
-
-### St
-
-  + replace the theme definitions that are in your `config.def.h` by one of
-    that are in `st`.
-  + remove the file `config.h` if it exists.
-  + recompile the software using `sudo make clean install`.
-
-  Also, consider to apply the patch [`bold is not bright`](https://st.suckless.org/patches/bold-is-not-bright).
 
 ## See Also
 
