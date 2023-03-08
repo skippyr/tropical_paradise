@@ -44,6 +44,15 @@ palette of the themes.
   + refresh your Kitty session.
 
 
+### St
+
+  + replace the theme definitions that are in your `config.def.h` by one of
+    that are in `st`.
+  + remove the file `config.h` if it exists.
+  + recompile the software using `sudo make clean install`.
+
+  Also, consider to apply the patch [`bold is not bright`](https://st.suckless.org/patches/bold-is-not-bright).
+
 ## See Also
 
   + [`Becho`](https://github.com/skippyr/becho) - A terminal utility designed
