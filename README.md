@@ -72,6 +72,32 @@ palette of the themes.
   + change the color scheme in Konsole's settings.
 
 
+## Wezterm
+
+  + copy the files from `wezterm` to one of this directories:
+    + if you are using `Linux` or `MacOS`: `~/.config/wezterm/colors`.
+    + if you are using `Windows`: in a directory called `colors` in the
+      same directory `wezterm.exe` is.
+  + write the `color_scheme` property in your `~/.wezterm.lua`:
+
+    For light color scheme:
+
+    ```lua
+    return {
+      color_scheme: 'Tropical Paradise Light'
+    }
+    ```
+
+    For dark color scheme:
+
+    ```lua
+    return {
+      color_scheme: 'Tropical Paradise Dark'
+    }
+    ```
+  + refresh your `wezterm` session.
+
+
 ## See Also
 
   + [`Becho`](https://github.com/skippyr/becho) - A terminal utility designed
