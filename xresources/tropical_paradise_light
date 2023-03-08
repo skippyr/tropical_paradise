@@ -1,0 +1,41 @@
+! Name: Tropical Paradise Dark
+! Author: Sherman Rofeman (https://github.com/skippyr)
+! License: MIT
+! Upstream: https://raw.githubusercontent.com/skippyr/tropical_paradise/main/xresources/tropical_paradise_dark
+
+! Basic Colors
+
+*.background: #fdebab
+*.foreground: #140000
+
+! Black
+*.color0: #140000
+*.color8: #978f63
+
+! Red
+*.color1: #c62b00
+*.color9: #ff0d00
+
+! Green
+*.color2: #4a7500
+*.color10: #77bc00
+
+! Yellow
+*.color3: #c77400
+*.color11: #ffae00
+
+! Blue
+*.color4: #007089
+*.color12: #4eb7cc
+
+! Magenta
+*.color5: #bb43a1
+*.color13: #ff5bdb
+
+! Cyan
+*.color6: #009163
+*.color14: #02d5b5
+
+! White
+*.color7: #beb79c
+*.color15: #fdebab
