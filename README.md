@@ -72,7 +72,7 @@ palette of the themes.
   + change the color scheme in Konsole's settings.
 
 
-## Wezterm
+### Wezterm
 
   + copy the files from `wezterm` to one of this directories:
     + if you are using `Linux` or `MacOS`: `~/.config/wezterm/colors`.
