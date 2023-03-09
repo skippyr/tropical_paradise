@@ -36,7 +36,6 @@ Check out a list of other projects that are related to this one.
 
 
 ## Issues, Enhancements And Questions
-
 If you have found an issue while using this software or have an idea to
 improve it, feel free to use the issues tab on its page on GitHub.
 
@@ -45,5 +44,4 @@ the Discussions tab instead.
 
 
 ## Copyright
-
 Copyright (c) 2023, Sherman Rofeman. MIT License.
