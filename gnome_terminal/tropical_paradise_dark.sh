@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# name: Tropical Paradise
+# name: Tropical Paradise Dark
 # author: Sherman Rofeman (https://github.com/skippyr)
 # license: MIT
 # upstream: https://raw.githubusercontent.com/skippyr/tropical_paradise/main/gnome_terminal/tropical_paradise_dark.sh
@@ -28,13 +28,15 @@ create_palette_string() {
 }
 
 main() {
+  local -r name="Tropical Paradise Dark"
+
   # Black
   local -r dark_black=#140000
   local -r light_black=#978f63
 
   # Red
   local -r dark_red=#ff0d00
-  local -r red=#f57f79
+  local -r light_red=#f57f79
 
   # Green
   local -r dark_green=#77bc00
@@ -70,7 +72,6 @@ main() {
     ${dark_cyan}
     ${dark_white}
 
-    ${light_white}
     ${light_black}
     ${light_red}
     ${light_green}
@@ -86,6 +87,8 @@ main() {
   apply_value ${default_profile_uuid} background-color "${dark_black}"
   apply_value ${default_profile_uuid} foreground-color "${light_white}"
   apply_value ${default_profile_uuid} palette $(create_palette_string ${palette[@]})
+
+  echo "Applied \"${name}\"."
 }
 
 main
