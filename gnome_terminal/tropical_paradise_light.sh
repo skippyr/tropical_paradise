@@ -86,6 +86,10 @@ main() {
 
   apply_value ${default_profile_uuid} background-color "${light_white}"
   apply_value ${default_profile_uuid} foreground-color "${dark_black}"
+  apply_value ${default_profile_uuid} cursor-background-color "${dark_red}"
+  apply_value ${default_profile_uuid} cursor-foreground-color "${light_white}"
+  apply_value ${default_profile_uuid} highlight-background-color "${dark_black}"
+  apply_value ${default_profile_uuid} highlight-foreground-color "${light_white}"
   apply_value ${default_profile_uuid} palette $(create_palette_string ${palette[@]})
 
   echo "Applied \"${name}\"."
