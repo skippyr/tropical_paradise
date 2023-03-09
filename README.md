@@ -38,6 +38,26 @@ their _Tropical Paradise_.
 | Dark White    | 7              | #beb79c | ![](images/colors/white.png)        |
 | White         | 15             | #fdebab | ![](images/colors/light_white.png)  |
 
+### Dark Color Scheme
+| Name          | Terminal Value | Value   | Preview                              |
+| ------------- | -------------- | ------- | ------------------------------------ |
+| Dark Black    | 0              | #140000 | ![](images/colors/black.png)         |
+| Light Black   | 8              | #978f63 | ![](images/colors/light_black.png)   |
+| Dark Red      | 1              | #ff0d00 | ![](images/colors/red.png)           |
+| Light Red     | 9              | #f57f79 | ![](images/colors/light_red.png)     |
+| Dark Green    | 2              | #77bc00 | ![](images/colors/green.png)         |
+| Light Green   | 10             | #d4f0a5 | ![](images/colors/light_green.png)   |
+| Dark Yellow   | 3              | #ffae00 | ![](images/colors/yellow.png)        |
+| Light Yellow  | 11             | #fcd276 | ![](images/colors/light_yellow.png)  |
+| Dark Blue     | 4              | #4eb7cc | ![](images/colors/blue.png)          |
+| Light Blue    | 12             | #93ccd9 | ![](images/colors/light_blue.png)    |
+| Dark Magenta  | 5              | #ff5bdb | ![](images/colors/magenta.png)       |
+| Light Magenta | 13             | #ffd5f6 | ![](images/colors/light_magenta.png) |
+| Dark Cyan     | 6              | #02d5b5 | ![](images/colors/cyan.png)          |
+| Light Cyan    | 14             | #87e2c5 | ![](images/colors/light_cyan.png)    |
+| Dark White    | 7              | #beb79c | ![](images/colors/white.png)         |
+| White         | 15             | #fdebab | ![](images/colors/light_white.png)   |
+
 ## Installation
 Tropical Paradise is available for some applications and installation
 instructions are separated in directories in this repository. Simply access
