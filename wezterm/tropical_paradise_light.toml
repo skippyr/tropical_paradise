@@ -5,16 +5,13 @@ license = "MIT"
 origin_url = "https://github.com/skippyr/tropical_paradise"
 
 [colors]
-
-# Basic Colors
-background = "#fdebab" # Dark Black
-foreground = "#140000" # Light White
+background = "#fdebab" # Light White
+foreground = "#140000" # Dark Black
 cursor_bg = "#c62b00" # Dark Red
 cursor_border = "#c62b00" # Dark Red
 cursor_fg = "#140000" # Dark Black
-selection_bg = "#140000" # Light White
-selection_fg = "#fdebab" # Dark Black
-
+selection_bg = "#140000" # Dark Black
+selection_fg = "#fdebab" # Light White
 
 # Dark Colors
 ansi = [
