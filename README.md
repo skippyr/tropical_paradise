@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/github/license/skippyr/tropical_paradise?style=social"/>
 </div>
 
-A theme with vibrant colors made for the __angels__ of the
+A hard theme with vibrant colors made for the __angels__ of the
 _light_ and the __demons__ of the _night_ that are in the search of
 their _Tropical Paradise_.
 

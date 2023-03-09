@@ -12,5 +12,4 @@
   ```
   include themes/tropical_paradise_dark.conf
   ```
-
 + refresh your Kitty session by reopening your terminal.
