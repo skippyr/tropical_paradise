@@ -9,7 +9,7 @@ background = "#fdebab" # Light White
 foreground = "#140000" # Dark Black
 cursor_bg = "#c62b00" # Dark Red
 cursor_border = "#c62b00" # Dark Red
-cursor_fg = "#140000" # Dark Black
+cursor_fg = "#fdebab" # Light White
 selection_bg = "#140000" # Dark Black
 selection_fg = "#fdebab" # Light White
 
