@@ -1,10 +1,12 @@
-// Name: Tropical Paradise Dark
-// Author: Sherman Rofeman (https://github.com/skippyr)
-// License: MIT
-// Upstream: https://raw.githubusercontent.com/skippyr/tropical_paradise/main/st/tropical_paradise_dark.c
+/**
+ * name: Tropical Paradise Dark
+ * author: Sherman Rofeman (https://github.com/skippyr)
+ * license: MIT
+ * upstream: https://raw.githubusercontent.com/skippyr/tropical_paradise/main/st/tropical_paradise_dark.c
+ */
 static const char *colorname[] = {
 	// Black
-	[0] = "#140000", // Dark Black - Background
+	[0] = "#140000", // Dark Black
 	[8] = "#978f63", // Light Black
 
 	// Red
@@ -33,10 +35,14 @@ static const char *colorname[] = {
 
 	// White
 	[7] = "#beb79c", // Dark White
-	[15] = "#fdebab", // Light White - Foreground
+	[15] = "#fdebab", // Light White
 };
 
-unsigned int defaultfg = 15; // Value For Foreground
-unsigned int defaultbg = 0; // Value For Background
-unsigned int defaultcs = 1; // Value For Cursor Background
-unsigned int defaultrcs = 1; // Value For Cursor When Selected
+// Foreground
+unsigned int defaultfg = 15; // Light White
+// Background
+unsigned int defaultbg = 0; // Dark Black
+// Cursor
+unsigned int defaultcs = 1; // Dark Red
+// Cursor When Selected
+unsigned int defaultrcs = 1; // Dark Red
