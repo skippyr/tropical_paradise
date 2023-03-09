@@ -11,11 +11,11 @@ their _Tropical Paradise_.
 ## Preview
 
 ### Light Color Scheme
-![](images/preview/light_palette.png)
+![](images/preview/light_color_scheme.png)
 
 
 ### Dark Color Scheme
-![](images/preview/dark_palette.png)
+![](images/preview/dark_color_scheme.png)
 
 
 ## Installation
