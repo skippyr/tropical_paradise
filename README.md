@@ -20,6 +20,7 @@ It is available for some popular terminal emulators.
 ### Dark Color Scheme
 ![](images/preview/dark_color_scheme.png)
 ![](images/preview/dark_color_scheme_desktop_0.png)
+![](images/preview/dark_color_scheme_desktop_1.png)
 
 ## Colors
 ### Light Color Scheme
