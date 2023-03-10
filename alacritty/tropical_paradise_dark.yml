@@ -1,0 +1,33 @@
+# name: Tropical Paradise Dark
+# author: Sherman Rofeman (https://github.com/skippyr)
+# license: MIT
+# upstream: https://raw.githubusercontent.com/skippyr/tropical_paradise/main/alacritty/tropical_paradise_dark.yml
+
+colors:
+  primary:
+    background: "#140000"
+    foreground: "#fdebab"
+  cursor:
+    text: CellBackground
+    cursor: "#ff0d00"
+  selection:
+    text: CellBackground
+    background: CellForeground
+  normal:
+    black: "#140000"
+    red: "#ff0d00"
+    green: "#77bc00"
+    yellow: "#ffae00"
+    blue: "#4eb7cc"
+    magenta: "#ff5bdb"
+    cyan: "#02d5b5"
+    white: "#beb79c"
+  bright:
+    black: "#978f63"
+    red: "#f57f79"
+    green: "#d4f0a5"
+    yellow: "#fcd276"
+    blue: "#93ccd9"
+    magenta: "#ffd5f6"
+    cyan: "#87e2c5"
+    white: "#fdebab"
