@@ -14,6 +14,7 @@ It is available for some popular terminal emulators.
 
 ### Light Color Scheme
 ![](images/preview/light_color_scheme.png)
+![](images/preview/light_color_scheme_desktop_0.png)
 
 
 ### Dark Color Scheme
