@@ -11,13 +11,13 @@
   [profiles]
     [[default]]
       ...
-      <CONTENTS OF COLOR SCHEME>
+      <CONTENTS_OF_COLOR_SCHEME>
       ...
   ...
   ```
 
   In the examples, `...` means any other content and
-  `<CONTENTS OF COLOR SCHEME>` is where the contents of the color scheme you
+  `<CONTENTS_OF_COLOR_SCHEME>` is where the contents of the color scheme you
   selected must be.
 
   If any property defined in the color scheme is already in the subsection
