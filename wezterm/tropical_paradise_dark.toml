@@ -15,24 +15,24 @@ selection_fg = "#140000" # Dark Black
 
 # Dark Colors
 ansi = [
-    "#140000", # Dark Black
-    "#ff0d00", # Dark Red
-    "#77bc00", # Dark Green
-    "#ffae00", # Dark Yellow
-    "#4eb7cc", # Dark Blue
-    "#ff5bdb", # Dark Magenta
-    "#02d5b5", # Dark Cyan
-    "#beb79c", # Dark White
+  "#140000", # Dark Black
+  "#ff0d00", # Dark Red
+  "#77bc00", # Dark Green
+  "#ffae00", # Dark Yellow
+  "#4eb7cc", # Dark Blue
+  "#ff5bdb", # Dark Magenta
+  "#02d5b5", # Dark Cyan
+  "#beb79c", # Dark White
 ]
 
 # Bright Colors
 brights = [
-    "#978f63", # Light Black
-    "#f57f79", # Light Red
-    "#d4f0a5", # Light Green
-    "#fcd276", # Light Yellow
-    "#93ccd9", # Light Blue
-    "#ffd5f6", # Light Magenta
-    "#87e2c5", # Light Cyan
-    "#fdebab", # Light White
+  "#978f63", # Light Black
+  "#f57f79", # Light Red
+  "#d4f0a5", # Light Green
+  "#fcd276", # Light Yellow
+  "#93ccd9", # Light Blue
+  "#ffd5f6", # Light Magenta
+  "#87e2c5", # Light Cyan
+  "#fdebab", # Light White
 ]

@@ -1,0 +1,33 @@
+# name: Tropical Paradise Light
+# author: Sherman Rofeman (https://github.com/skippyr)
+# license: MIT
+# upstream: https://raw.githubusercontent.com/skippyr/tropical_paradise/main/alacritty/tropical_paradise_light.yml
+
+colors:
+  primary:
+    background: "#fdebab"
+    foreground: "#140000"
+  cursor:
+    text: CellBackground
+    cursor: "#c62b00"
+  selection:
+    text: CellBackground
+    background: CellForeground
+  normal:
+    black: "#140000"
+    red: "#c62b00"
+    green: "#4a7500"
+    yellow: "#c77400"
+    blue: "#007089"
+    magenta: "#bb43a1"
+    cyan: "#009163"
+    white: "#beb79c"
+  bright:
+    black: "#978f63"
+    red: "#ff0d00"
+    green: "#77bc00"
+    yellow: "#ffae00"
+    blue: "#4eb7cc"
+    magenta: "#ff5bdb"
+    cyan: "#02d5b5"
+    white: "#fdebab"
