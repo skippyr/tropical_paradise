@@ -1,6 +1,3 @@
-[profiles]
-  [[Tropical Paradise Dark]]
-    cursor_color = "#ff0d00"
-    background_color = "#140000"
-    foreground_color = "#fdebab"
-    palette = "#140000:#ff0d00:#77bc00:#ffae00:#4eb7cc:#ff5bdb:#02d5b5:#beb79c:#978f63:#f57f79:#d4f0a5:#fcd276:#93ccd9:#ffd5f6:#87e2c5:#fdebab"
+background_color = "#140000"
+foreground_color = "#fdebab"
+palette = "#140000:#ff0d00:#77bc00:#ffae00:#4eb7cc:#ff5bdb:#02d5b5:#beb79c:#978f63:#f57f79:#d4f0a5:#fcd276:#93ccd9:#ffd5f6:#87e2c5:#fdebab"

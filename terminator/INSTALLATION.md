@@ -1,33 +1,26 @@
 ## Installation Instructions For Terminator
 + copy the contents of the desired color scheme file that is located in the
   `terminator` directory and append it to the file `~/.config/terminator/config`
-  in the section `[profiles]`. If you have modified your Terminator's
-  preferences that file with that section will be there, otherwise, you will
-  have to create it manually. That section must have the following format:
+  in the section `[profiles]` and subsection `[[default]]`. If you have modified
+  your Terminator's preferences that file with that sections will be there,
+  otherwise, you will have to create it manually. That section must have the
+  following format:
 
-  For light color scheme.
   ```
+  ...
   [profiles]
+    [[default]]
     ...
-    [[Tropical Paradise Light]]
+      <CONTENTS OF COLOR SCHEME>
     ...
+  ...
   ```
 
-  For dark color scheme.
-  ```
-  [profiles]
-    ...
-    [[Tropical Paradise Dark]]
-    ...
-  ```
+  In the examples, `...` means any other content and
+  `<CONTENTS OF COLOR SCHEME>` is where the contents of the color scheme you
+  selected must be.
 
-  In the examples, `...` means any other content. More than one profile can
-  exist at the same time inside that section.
+  If any property defined in the color schme is already in the subsection
+  `[[default]]`, you must delete what is there to avoid conflits.
 
-  As the color schemes for Terminator are new profiles, you will have to
-  reconfigure your other preferences again. You can also copy preferences
-  from other profiles to the color scheme profile while you are editing
-  the config file.
-
-+ reopen Terminator, right click, hover your cursor over the option `Profiles`
-  and select the desired color scheme name.
++ refresh your Terminator session by reopening the terminal.
