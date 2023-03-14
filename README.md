@@ -8,7 +8,7 @@ A hard theme with vibrant colors made for the __angels__ of the
 _light_ and the __demons__ of the _night_ that are in the search of
 their _Tropical Paradise_.
 
-It is available for some popular terminal emulators.
+It is available for some applications.
 
 ## Preview
 
